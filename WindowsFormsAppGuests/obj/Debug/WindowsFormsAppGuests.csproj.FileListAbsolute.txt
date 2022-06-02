@@ -1,0 +1,18 @@
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe.config
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.pdb
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.Properties.Resources.resources
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.GenerateResource.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.exe
+D:\Programming\ASP.NET\7PracticeExample\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.pdb
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe.config
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.exe
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\bin\Debug\WindowsFormsAppGuests.pdb
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.Properties.Resources.resources
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.GenerateResource.cache
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.exe
+C:\Users\destr\OneDrive\Рабочий стол\seventhPractice-main\WindowsFormsAppGuests\obj\Debug\WindowsFormsAppGuests.pdb
